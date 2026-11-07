@@ -4,7 +4,7 @@ Internacionalista e mestranda em Desenvolvimento Regional e Urbano no **PPDRU/UN
 
 🗺️ **[Atlas Austral](https://biachagas.github.io/atlas-austral/)**: *Cartografias de uma Internacionalista do Sul.* Mapas, painéis interativos e bases de dados em diferentes recortes territoriais.
 
-📊 **[Comércio Exterior da Bahia](https://biachagas.github.io/comex-bahia-atlas-austral/)**: painel interativo com dados do Comex Stat por município, escoamento e segmento.
+📊 **Comércio Exterior da Bahia**: painel interativo com dados do Comex Stat por município, escoamento e segmento. *Lançamento em abril de 2027.*
 
 **Linhas de interesse:** investimento externo direto chinês · geopolítica da infraestrutura · geoeconomia e logística marítima · política internacional e desenvolvimento regional.
 
